@@ -1,1 +1,5 @@
 config.py
+
+google_sheets_credentials.json
+
+my_env
